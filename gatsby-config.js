@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `読ム-１グランプリ2022 特設サイト`,
+    title: `読ム-１グランプリ2023 特設サイト`,
     author: `@Yomu_1GP2022`,
     description: `合成音声によるコンプラ無用の漫才大会！`
   },
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `2022年度 読ム-１グランプリ`,
-        short_name: `読ム-１GP 2021`,
+        name: `2023年度 読ム-１グランプリ`,
+        short_name: `読ム-１GP 2023`,
         start_url: `/`,
         background_color: `#800000`,
         // This will impact how browsers show your PWA/website
