@@ -49,7 +49,7 @@ const Header = ({ siteTitle }) => {
       </h3>
       <h2 class="sp-title">
         <StLink to="/">
-          読ム-１グランプリ2022
+          読ム-１グランプリ2023
         </StLink>
       </h2>
       <nav class="scroll">
