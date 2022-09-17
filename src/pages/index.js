@@ -32,6 +32,7 @@ const IndexPage = () => {
   return (
     <Layout title="ホーム">
       <Seo />
+      このサイトはサイト作成について説明するためのコピーです
       <h1>結果発表！</h1>
       <p>
         <div style={{width: `100%`}}>
